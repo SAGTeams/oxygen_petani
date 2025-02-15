@@ -21,3 +21,6 @@ Cara Pemasangan
 4 . Buka folder image pindahkan semua image ke oxygen_inventory > html > images
 5 . Buka server.cfg dan ensure oxygen_petani dibawah oxygen_petsmainan
 6 . Selamat script pertanian anda berhasil diinstal...
+
+Author : sag_0989
+Discord : https://discord.gg/ZKZJWTTxpr
